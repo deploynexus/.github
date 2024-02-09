@@ -1,4 +1,2 @@
 #8f6bff
-#ffffff
-#000000
 #1e1e1e
